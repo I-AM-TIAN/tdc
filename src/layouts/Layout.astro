@@ -1,6 +1,7 @@
 ---
 import "../styles/layout.css";
 import Footer from '../components/Footer.astro'
+import Pricing from "../components/landing/Pricing.astro";
 
 interface Props {
     title: string;
@@ -20,6 +21,7 @@ const { title } = Astro.props;
         <main class="mx-auto container md:pt-10">
             <slot />
         </main>
+        <Pricing/>
         <Footer />
 
     </body>

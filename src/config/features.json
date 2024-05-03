@@ -1,0 +1,27 @@
+[
+    {
+        "title": "Encrypted",
+        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
+    },
+    {
+        "title": "Open Source",
+        "description": "Proyecto de codigo abierto"
+    },
+    {
+        "title": "Free",
+        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
+    },
+    {
+        "title": "Fast",
+        "description": "Proyecto de codigo abierto"
+    },
+    {
+        "title": "Secure",
+        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
+    },
+    {
+        "title": "Cross Platform",
+        "description": "Proyecto de codigo abierto"
+    }
+    
+]

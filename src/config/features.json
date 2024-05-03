@@ -1,27 +1,17 @@
 [
     {
-        "title": "Encrypted",
-        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
+        "title": "Software a la medida",
+        "description": "Construimos tu software con base a tus necesidades y todo lo que necesites para potenciar tus servicios.",
+        "image": "images/services/softwaredev.svg"
     },
     {
-        "title": "Open Source",
-        "description": "Proyecto de codigo abierto"
+        "title": "SAS",
+        "description": "Haz uso de nuestro sistema de 'Software as Service' para optimizar tus labores.",
+        "image": "images/services/sas.svg"
     },
     {
-        "title": "Free",
-        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
-    },
-    {
-        "title": "Fast",
-        "description": "Proyecto de codigo abierto"
-    },
-    {
-        "title": "Secure",
-        "description": "Tus datos son encriptados y almacenados en un lugar seguro"
-    },
-    {
-        "title": "Cross Platform",
-        "description": "Proyecto de codigo abierto"
-    }
-    
+        "title": "Adopción de las TIC",
+        "description": "¿Quieres saber en qué nivel se encuentra tu organización en cuanto a la adopción de las TIC?",
+        "image": "images/services/tic.svg"
+    }   
 ]
